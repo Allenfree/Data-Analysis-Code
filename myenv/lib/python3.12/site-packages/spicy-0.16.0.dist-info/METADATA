@@ -1,0 +1,10 @@
+Metadata-Version: 1.2
+Name: spicy
+Version: 0.16.0
+Summary: Because spellchecker. SciPy at your fingertips
+Home-page: https://github.com/Carreau/spicy
+License: UNKNOWN
+Author: Matthias Bussonnier
+Author-email: bussonniermatthias@gmail.com
+Classifier: License :: OSI Approved :: MIT License
+Requires-Dist: scipy
